@@ -17,6 +17,11 @@ The 735 genera and 2,732 species match the counts in the saved regional snapshot
 The Orobanchaceae list combines the original Orobanchaceae and Phrymaceae rows.
 Lists also work for the 13 non-flowering families in the separate scope panel.
 
+The hosted version is https://kestutis-katilius.github.io/baltic-apg-phylogeny/.
+To link directly to an open list, use `?family=Asteraceae&list=species` or
+`?family=Orchidaceae&list=genera`. Scientific scope and filters are identical
+in the hosted and offline copies.
+
 ## What the tree represents
 
 - **Order topology:** manually transcribed from Figure 1, printed page 847
@@ -74,6 +79,7 @@ counts, not a current native flora count or confirmed Lithuanian occurrences.
 | `phylogeny_data.json` | Tree, family counts, non-flowering families, and provenance |
 | `preview.png` | Browser screenshot of the order overview |
 | `browser_checks.json` | Browser interaction checks at desktop and narrow widths |
+| `taxon_validation.json` | Exact genus/species ID, name, URL and parent-group checks against the saved snapshot |
 
 The 13 non-flowering families are not Newick tips because they are outside the
 source paper's scope. The Newick includes the 103 APG V flowering-family tips
@@ -109,6 +115,11 @@ Open-list previews were inspected in light and dark themes at desktop and phone
 widths. Native disclosure controls support keyboard activation. Phone list links
 have 44-pixel touch targets, and search inputs use 16-pixel type to avoid iOS
 focus zoom.
+
+On 10 November 2026, all 25 interaction checks passed against the live website
+at each of the four exact viewport widths. The report is retained in the local
+analysis project at `publish/github-pages-live-checks.json`. These checks verify
+the embedded source URLs and do not request every linked POWO webpage.
 
 ## Citation
 
