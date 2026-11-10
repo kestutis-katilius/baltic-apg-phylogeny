@@ -1,0 +1,2214 @@
+{
+  "tree": {
+    "name": "Angiosperms",
+    "kind": "clade",
+    "children": [
+      {
+        "name": "",
+        "kind": "clade",
+        "children": [
+          {
+            "name": "Nymphaeales",
+            "kind": "order",
+            "children": [
+              {
+                "name": "Nymphaeaceae",
+                "kind": "family",
+                "source_families": "Nymphaeaceae",
+                "order": "Nymphaeales",
+                "apgv_number": 4,
+                "accepted_species": 7,
+                "accepted_genera": 2,
+                "hybrid_species": 2,
+                "example_genera": ["Nymphaea", "Nuphar"],
+                "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126577-1",
+                "changed": false,
+                "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                "children": []
+              }
+            ],
+            "evidence": "Order topology from APG V Figure 1; child family fan shows membership, not a resolved family phylogeny."
+          },
+          {
+            "name": "Mesangiosperms",
+            "kind": "clade",
+            "children": [
+              {
+                "name": "",
+                "kind": "clade",
+                "children": [
+                  {
+                    "name": "Magnoliids",
+                    "kind": "clade",
+                    "children": [
+                      {
+                        "name": "Piperales",
+                        "kind": "order",
+                        "children": [
+                          {
+                            "name": "Aristolochiaceae",
+                            "kind": "family",
+                            "source_families": "Aristolochiaceae",
+                            "order": "Piperales",
+                            "apgv_number": 11,
+                            "accepted_species": 2,
+                            "accepted_genera": 2,
+                            "hybrid_species": 0,
+                            "example_genera": ["Aristolochia", "Asarum"],
+                            "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000909-2",
+                            "changed": false,
+                            "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                            "children": []
+                          }
+                        ],
+                        "evidence": "Order topology from APG V Figure 1; child family fan shows membership, not a resolved family phylogeny."
+                      }
+                    ],
+                    "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+                  },
+                  {
+                    "name": "Monocots",
+                    "kind": "clade",
+                    "children": [
+                      {
+                        "name": "Acorales",
+                        "kind": "order",
+                        "children": [
+                          {
+                            "name": "Acoraceae",
+                            "kind": "family",
+                            "source_families": "Acoraceae",
+                            "order": "Acorales",
+                            "apgv_number": 27,
+                            "accepted_species": 1,
+                            "accepted_genera": 1,
+                            "hybrid_species": 1,
+                            "example_genera": "Acorus",
+                            "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126753-1",
+                            "changed": false,
+                            "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                            "children": []
+                          }
+                        ],
+                        "evidence": "Order topology from APG V Figure 1; child family fan shows membership, not a resolved family phylogeny."
+                      },
+                      {
+                        "name": "",
+                        "kind": "clade",
+                        "children": [
+                          {
+                            "name": "Alismatales",
+                            "kind": "order",
+                            "children": [
+                              {
+                                "name": "Tofieldiaceae",
+                                "kind": "family",
+                                "source_families": "Tofieldiaceae",
+                                "order": "Alismatales",
+                                "apgv_number": 28,
+                                "accepted_species": 1,
+                                "accepted_genera": 1,
+                                "hybrid_species": 0,
+                                "example_genera": "Tofieldia",
+                                "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:982817-1",
+                                "changed": false,
+                                "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                "children": []
+                              },
+                              {
+                                "name": "Araceae",
+                                "kind": "family",
+                                "source_families": "Araceae",
+                                "order": "Alismatales",
+                                "apgv_number": 29,
+                                "accepted_species": 7,
+                                "accepted_genera": 4,
+                                "hybrid_species": 0,
+                                "example_genera": ["Calla", "Lemna", "Spirodela", "Wolffia"],
+                                "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000216-2",
+                                "changed": false,
+                                "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                "children": []
+                              },
+                              {
+                                "name": "Alismataceae",
+                                "kind": "family",
+                                "source_families": "Alismataceae",
+                                "order": "Alismatales",
+                                "apgv_number": 30,
+                                "accepted_species": 8,
+                                "accepted_genera": 4,
+                                "hybrid_species": 1,
+                                "example_genera": ["Alisma", "Caldesia", "Luronium", "Sagittaria"],
+                                "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126755-1",
+                                "changed": false,
+                                "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                "children": []
+                              },
+                              {
+                                "name": "Butomaceae",
+                                "kind": "family",
+                                "source_families": "Butomaceae",
+                                "order": "Alismatales",
+                                "apgv_number": 31,
+                                "accepted_species": 1,
+                                "accepted_genera": 1,
+                                "hybrid_species": 0,
+                                "example_genera": "Butomus",
+                                "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126756-1",
+                                "changed": false,
+                                "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                "children": []
+                              },
+                              {
+                                "name": "Hydrocharitaceae",
+                                "kind": "family",
+                                "source_families": "Hydrocharitaceae",
+                                "order": "Alismatales",
+                                "apgv_number": 32,
+                                "accepted_species": 10,
+                                "accepted_genera": 5,
+                                "hybrid_species": 0,
+                                "example_genera": ["Elodea", "Hydrilla", "Hydrocharis", "Najas", "Stratiotes"],
+                                "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30013086-2",
+                                "changed": false,
+                                "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                "children": []
+                              },
+                              {
+                                "name": "Scheuchzeriaceae",
+                                "kind": "family",
+                                "source_families": "Scheuchzeriaceae",
+                                "order": "Alismatales",
+                                "apgv_number": 34,
+                                "accepted_species": 1,
+                                "accepted_genera": 1,
+                                "hybrid_species": 0,
+                                "example_genera": "Scheuchzeria",
+                                "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126757-1",
+                                "changed": false,
+                                "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                "children": []
+                              },
+                              {
+                                "name": "Juncaginaceae",
+                                "kind": "family",
+                                "source_families": "Juncaginaceae",
+                                "order": "Alismatales",
+                                "apgv_number": 35,
+                                "accepted_species": 2,
+                                "accepted_genera": 1,
+                                "hybrid_species": 0,
+                                "example_genera": "Triglochin",
+                                "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30011708-2",
+                                "changed": false,
+                                "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                "children": []
+                              },
+                              {
+                                "name": "Ruppiaceae",
+                                "kind": "family",
+                                "source_families": "Ruppiaceae",
+                                "order": "Alismatales",
+                                "apgv_number": 38,
+                                "accepted_species": 2,
+                                "accepted_genera": 1,
+                                "hybrid_species": 0,
+                                "example_genera": "Ruppia",
+                                "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126829-1",
+                                "changed": false,
+                                "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                "children": []
+                              },
+                              {
+                                "name": "Zosteraceae",
+                                "kind": "family",
+                                "source_families": "Zosteraceae",
+                                "order": "Alismatales",
+                                "apgv_number": 40,
+                                "accepted_species": 1,
+                                "accepted_genera": 1,
+                                "hybrid_species": 0,
+                                "example_genera": "Zostera",
+                                "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30103742-2",
+                                "changed": false,
+                                "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                "children": []
+                              },
+                              {
+                                "name": "Potamogetonaceae",
+                                "kind": "family",
+                                "source_families": "Potamogetonaceae",
+                                "order": "Alismatales",
+                                "apgv_number": 41,
+                                "accepted_species": 42,
+                                "accepted_genera": 4,
+                                "hybrid_species": 21,
+                                "example_genera": ["Groenlandia", "Potamogeton", "Stuckenia", "Zannichellia"],
+                                "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30005043-2",
+                                "changed": false,
+                                "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                "children": []
+                              }
+                            ],
+                            "evidence": "Order topology from APG V Figure 1; child family fan shows membership, not a resolved family phylogeny."
+                          },
+                          {
+                            "name": "",
+                            "kind": "clade",
+                            "children": [
+                              {
+                                "name": "",
+                                "kind": "clade",
+                                "children": [
+                                  {
+                                    "name": "Liliales",
+                                    "kind": "order",
+                                    "children": [
+                                      {
+                                        "name": "Melanthiaceae",
+                                        "kind": "family",
+                                        "source_families": "Melanthiaceae",
+                                        "order": "Liliales",
+                                        "apgv_number": 53,
+                                        "accepted_species": 2,
+                                        "accepted_genera": 2,
+                                        "hybrid_species": 0,
+                                        "example_genera": ["Paris", "Veratrum"],
+                                        "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126739-1",
+                                        "changed": false,
+                                        "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "Colchicaceae",
+                                        "kind": "family",
+                                        "source_families": "Colchicaceae",
+                                        "order": "Liliales",
+                                        "apgv_number": 56,
+                                        "accepted_species": 1,
+                                        "accepted_genera": 1,
+                                        "hybrid_species": 0,
+                                        "example_genera": "Colchicum",
+                                        "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126743-1",
+                                        "changed": false,
+                                        "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "Liliaceae",
+                                        "kind": "family",
+                                        "source_families": "Liliaceae",
+                                        "order": "Liliales",
+                                        "apgv_number": 60,
+                                        "accepted_species": 10,
+                                        "accepted_genera": 4,
+                                        "hybrid_species": 0,
+                                        "example_genera": ["Fritillaria", "Gagea", "Lilium", "Tulipa"],
+                                        "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000259-2",
+                                        "changed": false,
+                                        "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                        "children": []
+                                      }
+                                    ],
+                                    "evidence": "Order topology from APG V Figure 1; child family fan shows membership, not a resolved family phylogeny."
+                                  },
+                                  {
+                                    "name": "Asparagales",
+                                    "kind": "order",
+                                    "children": [
+                                      {
+                                        "name": "Orchidaceae",
+                                        "kind": "family",
+                                        "source_families": "Orchidaceae",
+                                        "order": "Asparagales",
+                                        "apgv_number": 61,
+                                        "accepted_species": 46,
+                                        "accepted_genera": 21,
+                                        "hybrid_species": 7,
+                                        "example_genera": ["Anacamptis", "Calypso", "Cephalanthera", "Cypripedium", "Corallorhiza", "Dactylodenia", "Dactylorhiza", "Epipactis"],
+                                        "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000046-2",
+                                        "changed": false,
+                                        "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "Iridaceae",
+                                        "kind": "family",
+                                        "source_families": "Iridaceae",
+                                        "order": "Asparagales",
+                                        "apgv_number": 69,
+                                        "accepted_species": 7,
+                                        "accepted_genera": 4,
+                                        "hybrid_species": 1,
+                                        "example_genera": ["Crocus", "Gladiolus", "Iris", "Sisyrinchium"],
+                                        "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30001783-2",
+                                        "changed": false,
+                                        "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "Asphodelaceae",
+                                        "kind": "family",
+                                        "source_families": "Asphodelaceae",
+                                        "order": "Asparagales",
+                                        "apgv_number": 71,
+                                        "accepted_species": 1,
+                                        "accepted_genera": 1,
+                                        "hybrid_species": 0,
+                                        "example_genera": "Hemerocallis",
+                                        "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60006629-3",
+                                        "changed": false,
+                                        "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "Amaryllidaceae",
+                                        "kind": "family",
+                                        "source_families": "Amaryllidaceae",
+                                        "order": "Asparagales",
+                                        "apgv_number": 72,
+                                        "accepted_species": 17,
+                                        "accepted_genera": 3,
+                                        "hybrid_species": 0,
+                                        "example_genera": ["Allium", "Galanthus", "Narcissus"],
+                                        "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000959-2",
+                                        "changed": false,
+                                        "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "Asparagaceae",
+                                        "kind": "family",
+                                        "source_families": "Asparagaceae",
+                                        "order": "Asparagales",
+                                        "apgv_number": 73,
+                                        "accepted_species": 12,
+                                        "accepted_genera": 8,
+                                        "hybrid_species": 0,
+                                        "example_genera": ["Anthericum", "Asparagus", "Convallaria", "Maianthemum", "Muscari", "Ornithogalum", "Polygonatum", "Scilla"],
+                                        "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30275682-2",
+                                        "changed": false,
+                                        "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                        "children": []
+                                      }
+                                    ],
+                                    "evidence": "Order topology from APG V Figure 1; child family fan shows membership, not a resolved family phylogeny."
+                                  }
+                                ],
+                                "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+                              },
+                              {
+                                "name": "Commelinids",
+                                "kind": "clade",
+                                "children": [
+                                  {
+                                    "name": "",
+                                    "kind": "clade",
+                                    "children": [
+                                      {
+                                        "name": "Commelinales",
+                                        "kind": "order",
+                                        "children": [
+                                          {
+                                            "name": "Commelinaceae",
+                                            "kind": "family",
+                                            "source_families": "Commelinaceae",
+                                            "order": "Commelinales",
+                                            "apgv_number": 80,
+                                            "accepted_species": 1,
+                                            "accepted_genera": 1,
+                                            "hybrid_species": 0,
+                                            "example_genera": "Commelina",
+                                            "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000225-2",
+                                            "changed": false,
+                                            "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                            "children": []
+                                          }
+                                        ],
+                                        "evidence": "Order topology from APG V Figure 1; child family fan shows membership, not a resolved family phylogeny."
+                                      },
+                                      {
+                                        "name": "Poales",
+                                        "kind": "order",
+                                        "children": [
+                                          {
+                                            "name": "Typhaceae",
+                                            "kind": "family",
+                                            "source_families": "Typhaceae",
+                                            "order": "Poales",
+                                            "apgv_number": 89,
+                                            "accepted_species": 9,
+                                            "accepted_genera": 2,
+                                            "hybrid_species": 1,
+                                            "example_genera": ["Sparganium", "Typha"],
+                                            "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30003824-2",
+                                            "changed": false,
+                                            "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "Juncaceae",
+                                            "kind": "family",
+                                            "source_families": "Juncaceae",
+                                            "order": "Poales",
+                                            "apgv_number": 93,
+                                            "accepted_species": 24,
+                                            "accepted_genera": 3,
+                                            "hybrid_species": 1,
+                                            "example_genera": ["Juncinella", "Juncus", "Luzula"],
+                                            "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126749-1",
+                                            "changed": false,
+                                            "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "Cyperaceae",
+                                            "kind": "family",
+                                            "source_families": "Cyperaceae",
+                                            "order": "Poales",
+                                            "apgv_number": 94,
+                                            "accepted_species": 149,
+                                            "accepted_genera": 14,
+                                            "hybrid_species": 33,
+                                            "example_genera": ["Blysmus", "Bolboschoenus", "Carex", "Cyperus", "Cladium", "Eleocharis", "Eriophorum", "Isolepis"],
+                                            "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000197-2",
+                                            "changed": false,
+                                            "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "Poaceae",
+                                            "kind": "family",
+                                            "source_families": "Poaceae",
+                                            "order": "Poales",
+                                            "apgv_number": 102,
+                                            "accepted_species": 195,
+                                            "accepted_genera": 66,
+                                            "hybrid_species": 18,
+                                            "example_genera": ["Aegilops", "Agropyron", "Agrostis", "Aira", "Alopecurus", "Anthoxanthum", "Apera", "Arrhenatherum"],
+                                            "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000032-2",
+                                            "changed": false,
+                                            "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                            "children": []
+                                          }
+                                        ],
+                                        "evidence": "Order topology from APG V Figure 1; child family fan shows membership, not a resolved family phylogeny."
+                                      }
+                                    ],
+                                    "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+                                  }
+                                ],
+                                "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+                              }
+                            ],
+                            "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+                          }
+                        ],
+                        "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+                      }
+                    ],
+                    "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+                  }
+                ],
+                "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+              },
+              {
+                "name": "",
+                "kind": "clade",
+                "children": [
+                  {
+                    "name": "Ceratophyllales",
+                    "kind": "order",
+                    "children": [
+                      {
+                        "name": "Ceratophyllaceae",
+                        "kind": "family",
+                        "source_families": "Ceratophyllaceae",
+                        "order": "Ceratophyllales",
+                        "apgv_number": 103,
+                        "accepted_species": 2,
+                        "accepted_genera": 1,
+                        "hybrid_species": 0,
+                        "example_genera": "Ceratophyllum",
+                        "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126579-1",
+                        "changed": false,
+                        "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                        "children": []
+                      }
+                    ],
+                    "evidence": "Order topology from APG V Figure 1; child family fan shows membership, not a resolved family phylogeny."
+                  },
+                  {
+                    "name": "Eudicots",
+                    "kind": "clade",
+                    "children": [
+                      {
+                        "name": "Ranunculales",
+                        "kind": "order",
+                        "children": [
+                          {
+                            "name": "Papaveraceae",
+                            "kind": "family",
+                            "source_families": "Papaveraceae",
+                            "order": "Ranunculales",
+                            "apgv_number": 105,
+                            "accepted_species": 17,
+                            "accepted_genera": 9,
+                            "hybrid_species": 1,
+                            "example_genera": ["Chelidonium", "Corydalis", "Eschscholzia", "Fumaria", "Glaucium", "Oreomecon", "Papaver", "Pseudo-fumaria"],
+                            "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000446-2",
+                            "changed": false,
+                            "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                            "children": []
+                          },
+                          {
+                            "name": "Berberidaceae",
+                            "kind": "family",
+                            "source_families": "Berberidaceae",
+                            "order": "Ranunculales",
+                            "apgv_number": 109,
+                            "accepted_species": 3,
+                            "accepted_genera": 1,
+                            "hybrid_species": 0,
+                            "example_genera": "Berberis",
+                            "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000989-2",
+                            "changed": false,
+                            "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                            "children": []
+                          },
+                          {
+                            "name": "Ranunculaceae",
+                            "kind": "family",
+                            "source_families": "Ranunculaceae",
+                            "order": "Ranunculales",
+                            "apgv_number": 110,
+                            "accepted_species": 103,
+                            "accepted_genera": 14,
+                            "hybrid_species": 3,
+                            "example_genera": ["Aconitum", "Actaea", "Anemone", "Aquilegia", "Caltha", "Clematis", "Delphinium", "Hepatica"],
+                            "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000277-2",
+                            "changed": false,
+                            "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                            "children": []
+                          }
+                        ],
+                        "evidence": "Order topology from APG V Figure 1; child family fan shows membership, not a resolved family phylogeny."
+                      },
+                      {
+                        "name": "Core eudicots",
+                        "kind": "clade",
+                        "children": [
+                          {
+                            "name": "Superrosids",
+                            "kind": "clade",
+                            "children": [
+                              {
+                                "name": "Vitales",
+                                "kind": "order",
+                                "children": [
+                                  {
+                                    "name": "Vitaceae",
+                                    "kind": "family",
+                                    "source_families": "Vitaceae",
+                                    "order": "Vitales",
+                                    "apgv_number": 120,
+                                    "accepted_species": 4,
+                                    "accepted_genera": 2,
+                                    "hybrid_species": 0,
+                                    "example_genera": ["Parthenocissus", "Vitis"],
+                                    "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000067-2",
+                                    "changed": false,
+                                    "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                    "children": []
+                                  }
+                                ],
+                                "evidence": "Order topology from APG V Figure 1; child family fan shows membership, not a resolved family phylogeny."
+                              },
+                              {
+                                "name": "",
+                                "kind": "clade",
+                                "children": [
+                                  {
+                                    "name": "Saxifragales",
+                                    "kind": "order",
+                                    "children": [
+                                      {
+                                        "name": "Paeoniaceae",
+                                        "kind": "family",
+                                        "source_families": "Paeoniaceae",
+                                        "order": "Saxifragales",
+                                        "apgv_number": 123,
+                                        "accepted_species": 1,
+                                        "accepted_genera": 1,
+                                        "hybrid_species": 0,
+                                        "example_genera": "Paeonia",
+                                        "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126564-1",
+                                        "changed": false,
+                                        "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "Grossulariaceae",
+                                        "kind": "family",
+                                        "source_families": "Grossulariaceae",
+                                        "order": "Saxifragales",
+                                        "apgv_number": 129,
+                                        "accepted_species": 7,
+                                        "accepted_genera": 1,
+                                        "hybrid_species": 1,
+                                        "example_genera": "Ribes",
+                                        "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60457413-2",
+                                        "changed": false,
+                                        "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "Saxifragaceae",
+                                        "kind": "family",
+                                        "source_families": "Saxifragaceae",
+                                        "order": "Saxifragales",
+                                        "apgv_number": 130,
+                                        "accepted_species": 5,
+                                        "accepted_genera": 2,
+                                        "hybrid_species": 0,
+                                        "example_genera": ["Chrysosplenium", "Saxifraga"],
+                                        "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30001425-2",
+                                        "changed": false,
+                                        "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "Haloragaceae",
+                                        "kind": "family",
+                                        "source_families": "Haloragaceae",
+                                        "order": "Saxifragales",
+                                        "apgv_number": 134,
+                                        "accepted_species": 3,
+                                        "accepted_genera": 1,
+                                        "hybrid_species": 0,
+                                        "example_genera": "Myriophyllum",
+                                        "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126650-1",
+                                        "changed": false,
+                                        "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "Crassulaceae",
+                                        "kind": "family",
+                                        "source_families": "Crassulaceae",
+                                        "order": "Saxifragales",
+                                        "apgv_number": 135,
+                                        "accepted_species": 17,
+                                        "accepted_genera": 6,
+                                        "hybrid_species": 0,
+                                        "example_genera": ["Crassula", "Hylotelephium", "Petrosedum", "Phedimus", "Sedum", "Sempervivum"],
+                                        "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000887-2",
+                                        "changed": false,
+                                        "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                        "children": []
+                                      }
+                                    ],
+                                    "evidence": "Order topology from APG V Figure 1; child family fan shows membership, not a resolved family phylogeny."
+                                  },
+                                  {
+                                    "name": "Rosids",
+                                    "kind": "clade",
+                                    "children": [
+                                      {
+                                        "name": "",
+                                        "kind": "clade",
+                                        "children": [
+                                          {
+                                            "name": "Crossosomatales",
+                                            "kind": "order",
+                                            "children": [
+                                              {
+                                                "name": "Staphyleaceae",
+                                                "kind": "family",
+                                                "source_families": "Staphyleaceae",
+                                                "order": "Crossosomatales",
+                                                "apgv_number": 142,
+                                                "accepted_species": 1,
+                                                "accepted_genera": 1,
+                                                "hybrid_species": 0,
+                                                "example_genera": "Staphylea",
+                                                "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126628-1",
+                                                "changed": false,
+                                                "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                "children": []
+                                              }
+                                            ],
+                                            "evidence": "Order topology from APG V Figure 1; child family fan shows membership, not a resolved family phylogeny."
+                                          },
+                                          {
+                                            "name": "Geraniales",
+                                            "kind": "order",
+                                            "children": [
+                                              {
+                                                "name": "Geraniaceae",
+                                                "kind": "family",
+                                                "source_families": "Geraniaceae",
+                                                "order": "Geraniales",
+                                                "apgv_number": 144,
+                                                "accepted_species": 22,
+                                                "accepted_genera": 2,
+                                                "hybrid_species": 0,
+                                                "example_genera": ["Erodium", "Geranium"],
+                                                "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30001521-2",
+                                                "changed": false,
+                                                "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                "children": []
+                                              }
+                                            ],
+                                            "evidence": "Order topology from APG V Figure 1; child family fan shows membership, not a resolved family phylogeny."
+                                          }
+                                        ],
+                                        "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+                                      },
+                                      {
+                                        "name": "",
+                                        "kind": "clade",
+                                        "children": [
+                                          {
+                                            "name": "Myrtales",
+                                            "kind": "order",
+                                            "children": [
+                                              {
+                                                "name": "Lythraceae",
+                                                "kind": "family",
+                                                "source_families": "Lythraceae",
+                                                "order": "Myrtales",
+                                                "apgv_number": 148,
+                                                "accepted_species": 5,
+                                                "accepted_genera": 2,
+                                                "hybrid_species": 0,
+                                                "example_genera": ["Lythrum", "Trapa"],
+                                                "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000194-2",
+                                                "changed": false,
+                                                "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "Onagraceae",
+                                                "kind": "family",
+                                                "source_families": "Onagraceae",
+                                                "order": "Myrtales",
+                                                "apgv_number": 149,
+                                                "accepted_species": 23,
+                                                "accepted_genera": 3,
+                                                "hybrid_species": 7,
+                                                "example_genera": ["Circaea", "Epilobium", "Oenothera"],
+                                                "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000053-2",
+                                                "changed": false,
+                                                "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                "children": []
+                                              }
+                                            ],
+                                            "evidence": "Order topology from APG V Figure 1; child family fan shows membership, not a resolved family phylogeny."
+                                          },
+                                          {
+                                            "name": "",
+                                            "kind": "clade",
+                                            "children": [
+                                              {
+                                                "name": "Fabids",
+                                                "kind": "clade",
+                                                "children": [
+                                                  {
+                                                    "name": "",
+                                                    "kind": "clade",
+                                                    "children": [
+                                                      {
+                                                        "name": "Fagales",
+                                                        "kind": "order",
+                                                        "children": [
+                                                          {
+                                                            "name": "Myricaceae",
+                                                            "kind": "family",
+                                                            "source_families": "Myricaceae",
+                                                            "order": "Fagales",
+                                                            "apgv_number": 157,
+                                                            "accepted_species": 1,
+                                                            "accepted_genera": 1,
+                                                            "hybrid_species": 0,
+                                                            "example_genera": "Myrica",
+                                                            "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126721-1",
+                                                            "changed": false,
+                                                            "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                            "children": []
+                                                          },
+                                                          {
+                                                            "name": "Juglandaceae",
+                                                            "kind": "family",
+                                                            "source_families": "Juglandaceae",
+                                                            "order": "Fagales",
+                                                            "apgv_number": 158,
+                                                            "accepted_species": 3,
+                                                            "accepted_genera": 1,
+                                                            "hybrid_species": 0,
+                                                            "example_genera": "Juglans",
+                                                            "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126720-1",
+                                                            "changed": false,
+                                                            "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                            "children": []
+                                                          },
+                                                          {
+                                                            "name": "Betulaceae",
+                                                            "kind": "family",
+                                                            "source_families": "Betulaceae",
+                                                            "order": "Fagales",
+                                                            "apgv_number": 161,
+                                                            "accepted_species": 10,
+                                                            "accepted_genera": 4,
+                                                            "hybrid_species": 2,
+                                                            "example_genera": ["Alnus", "Betula", "Carpinus", "Corylus"],
+                                                            "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126723-1",
+                                                            "changed": false,
+                                                            "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                            "children": []
+                                                          },
+                                                          {
+                                                            "name": "Fagaceae",
+                                                            "kind": "family",
+                                                            "source_families": "Fagaceae",
+                                                            "order": "Fagales",
+                                                            "apgv_number": 162,
+                                                            "accepted_species": 4,
+                                                            "accepted_genera": 2,
+                                                            "hybrid_species": 0,
+                                                            "example_genera": ["Fagus", "Quercus"],
+                                                            "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000116-2",
+                                                            "changed": false,
+                                                            "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                            "children": []
+                                                          }
+                                                        ],
+                                                        "evidence": "Order topology from APG V Figure 1; child family fan shows membership, not a resolved family phylogeny."
+                                                      },
+                                                      {
+                                                        "name": "Fabales",
+                                                        "kind": "order",
+                                                        "children": [
+                                                          {
+                                                            "name": "Polygalaceae",
+                                                            "kind": "family",
+                                                            "source_families": "Polygalaceae",
+                                                            "order": "Fabales",
+                                                            "apgv_number": 164,
+                                                            "accepted_species": 4,
+                                                            "accepted_genera": 1,
+                                                            "hybrid_species": 0,
+                                                            "example_genera": "Polygala",
+                                                            "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000688-2",
+                                                            "changed": false,
+                                                            "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                            "children": []
+                                                          },
+                                                          {
+                                                            "name": "Fabaceae",
+                                                            "kind": "family",
+                                                            "source_families": "Fabaceae",
+                                                            "order": "Fabales",
+                                                            "apgv_number": 166,
+                                                            "accepted_species": 141,
+                                                            "accepted_genera": 33,
+                                                            "hybrid_species": 2,
+                                                            "example_genera": ["Amorpha", "Anthyllis", "Astragalus", "Caragana", "Chamaecytisus", "Cicer", "Cytisus", "Cladrastis"],
+                                                            "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000147-2",
+                                                            "changed": false,
+                                                            "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                            "children": []
+                                                          }
+                                                        ],
+                                                        "evidence": "Order topology from APG V Figure 1; child family fan shows membership, not a resolved family phylogeny."
+                                                      }
+                                                    ],
+                                                    "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "kind": "clade",
+                                                    "children": [
+                                                      {
+                                                        "name": "Cucurbitales",
+                                                        "kind": "order",
+                                                        "children": [
+                                                          {
+                                                            "name": "Cucurbitaceae",
+                                                            "kind": "family",
+                                                            "source_families": "Cucurbitaceae",
+                                                            "order": "Cucurbitales",
+                                                            "apgv_number": 170,
+                                                            "accepted_species": 5,
+                                                            "accepted_genera": 5,
+                                                            "hybrid_species": 0,
+                                                            "example_genera": ["Bryonia", "Cucumis", "Cucurbita", "Echinocystis", "Thladiantha"],
+                                                            "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000781-2",
+                                                            "changed": false,
+                                                            "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                            "children": []
+                                                          }
+                                                        ],
+                                                        "evidence": "Order topology from APG V Figure 1; child family fan shows membership, not a resolved family phylogeny."
+                                                      },
+                                                      {
+                                                        "name": "Rosales",
+                                                        "kind": "order",
+                                                        "children": [
+                                                          {
+                                                            "name": "Elaeagnaceae",
+                                                            "kind": "family",
+                                                            "source_families": "Elaeagnaceae",
+                                                            "order": "Rosales",
+                                                            "apgv_number": 176,
+                                                            "accepted_species": 3,
+                                                            "accepted_genera": 2,
+                                                            "hybrid_species": 0,
+                                                            "example_genera": ["Elaeagnus", "Hippophae"],
+                                                            "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30001966-2",
+                                                            "changed": false,
+                                                            "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                            "children": []
+                                                          },
+                                                          {
+                                                            "name": "Rhamnaceae",
+                                                            "kind": "family",
+                                                            "source_families": "Rhamnaceae",
+                                                            "order": "Rosales",
+                                                            "apgv_number": 177,
+                                                            "accepted_species": 2,
+                                                            "accepted_genera": 2,
+                                                            "hybrid_species": 0,
+                                                            "example_genera": ["Frangula", "Rhamnus"],
+                                                            "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:50033316-1",
+                                                            "changed": false,
+                                                            "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                            "children": []
+                                                          },
+                                                          {
+                                                            "name": "Ulmaceae",
+                                                            "kind": "family",
+                                                            "source_families": "Ulmaceae",
+                                                            "order": "Rosales",
+                                                            "apgv_number": 178,
+                                                            "accepted_species": 4,
+                                                            "accepted_genera": 1,
+                                                            "hybrid_species": 0,
+                                                            "example_genera": "Ulmus",
+                                                            "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126716-1",
+                                                            "changed": false,
+                                                            "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                            "children": []
+                                                          },
+                                                          {
+                                                            "name": "Cannabaceae",
+                                                            "kind": "family",
+                                                            "source_families": "Cannabaceae",
+                                                            "order": "Rosales",
+                                                            "apgv_number": 179,
+                                                            "accepted_species": 2,
+                                                            "accepted_genera": 2,
+                                                            "hybrid_species": 0,
+                                                            "example_genera": ["Cannabis", "Humulus"],
+                                                            "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126717-1",
+                                                            "changed": false,
+                                                            "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                            "children": []
+                                                          },
+                                                          {
+                                                            "name": "Urticaceae",
+                                                            "kind": "family",
+                                                            "source_families": "Urticaceae",
+                                                            "order": "Rosales",
+                                                            "apgv_number": 181,
+                                                            "accepted_species": 2,
+                                                            "accepted_genera": 1,
+                                                            "hybrid_species": 0,
+                                                            "example_genera": "Urtica",
+                                                            "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000535-2",
+                                                            "changed": false,
+                                                            "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                            "children": []
+                                                          },
+                                                          {
+                                                            "name": "Rosaceae",
+                                                            "kind": "family",
+                                                            "source_families": "Rosaceae",
+                                                            "order": "Rosales",
+                                                            "apgv_number": 182,
+                                                            "accepted_species": 176,
+                                                            "accepted_genera": 27,
+                                                            "hybrid_species": 14,
+                                                            "example_genera": ["Agrimonia", "Alchemilla", "Argentina", "Aria", "Aruncus", "Chaenomeles", "Comarum", "Cotoneaster"],
+                                                            "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000200-2",
+                                                            "changed": false,
+                                                            "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                            "children": []
+                                                          }
+                                                        ],
+                                                        "evidence": "Order topology from APG V Figure 1; child family fan shows membership, not a resolved family phylogeny."
+                                                      }
+                                                    ],
+                                                    "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+                                                  }
+                                                ],
+                                                "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+                                              },
+                                              {
+                                                "name": "Malvids",
+                                                "kind": "clade",
+                                                "children": [
+                                                  {
+                                                    "name": "",
+                                                    "kind": "clade",
+                                                    "children": [
+                                                      {
+                                                        "name": "",
+                                                        "kind": "clade",
+                                                        "children": [
+                                                          {
+                                                            "name": "Celastrales",
+                                                            "kind": "order",
+                                                            "children": [
+                                                              {
+                                                                "name": "Celastraceae",
+                                                                "kind": "family",
+                                                                "source_families": "Celastraceae",
+                                                                "order": "Celastrales",
+                                                                "apgv_number": 185,
+                                                                "accepted_species": 6,
+                                                                "accepted_genera": 3,
+                                                                "hybrid_species": 0,
+                                                                "example_genera": ["Celastrus", "Euonymus", "Parnassia"],
+                                                                "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000478-2",
+                                                                "changed": false,
+                                                                "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                                "children": []
+                                                              }
+                                                            ],
+                                                            "evidence": "Order topology from APG V Figure 1; child family fan shows membership, not a resolved family phylogeny."
+                                                          },
+                                                          {
+                                                            "name": "Malpighiales",
+                                                            "kind": "order",
+                                                            "children": [
+                                                              {
+                                                                "name": "Hypericaceae",
+                                                                "kind": "family",
+                                                                "source_families": "Hypericaceae",
+                                                                "order": "Malpighiales",
+                                                                "apgv_number": 197,
+                                                                "accepted_species": 5,
+                                                                "accepted_genera": 1,
+                                                                "hybrid_species": 0,
+                                                                "example_genera": "Hypericum",
+                                                                "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30001287-2",
+                                                                "changed": false,
+                                                                "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                                "children": []
+                                                              },
+                                                              {
+                                                                "name": "Elatinaceae",
+                                                                "kind": "family",
+                                                                "source_families": "Elatinaceae",
+                                                                "order": "Malpighiales",
+                                                                "apgv_number": 202,
+                                                                "accepted_species": 3,
+                                                                "accepted_genera": 1,
+                                                                "hybrid_species": 0,
+                                                                "example_genera": "Elatine",
+                                                                "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30013720-2",
+                                                                "changed": false,
+                                                                "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                                "children": []
+                                                              },
+                                                              {
+                                                                "name": "Linaceae",
+                                                                "kind": "family",
+                                                                "source_families": "Linaceae",
+                                                                "order": "Malpighiales",
+                                                                "apgv_number": 204,
+                                                                "accepted_species": 3,
+                                                                "accepted_genera": 2,
+                                                                "hybrid_species": 0,
+                                                                "example_genera": ["Linum", "Radiola"],
+                                                                "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30003859-2",
+                                                                "changed": false,
+                                                                "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                                "children": []
+                                                              },
+                                                              {
+                                                                "name": "Salicaceae",
+                                                                "kind": "family",
+                                                                "source_families": "Salicaceae",
+                                                                "order": "Malpighiales",
+                                                                "apgv_number": 216,
+                                                                "accepted_species": 76,
+                                                                "accepted_genera": 2,
+                                                                "hybrid_species": 51,
+                                                                "example_genera": ["Populus", "Salix"],
+                                                                "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30002644-2",
+                                                                "changed": false,
+                                                                "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                                "children": []
+                                                              },
+                                                              {
+                                                                "name": "Violaceae",
+                                                                "kind": "family",
+                                                                "source_families": "Violaceae",
+                                                                "order": "Malpighiales",
+                                                                "apgv_number": 218,
+                                                                "accepted_species": 24,
+                                                                "accepted_genera": 1,
+                                                                "hybrid_species": 8,
+                                                                "example_genera": "Viola",
+                                                                "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000541-2",
+                                                                "changed": false,
+                                                                "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                                "children": []
+                                                              },
+                                                              {
+                                                                "name": "Euphorbiaceae",
+                                                                "kind": "family",
+                                                                "source_families": "Euphorbiaceae",
+                                                                "order": "Malpighiales",
+                                                                "apgv_number": 221,
+                                                                "accepted_species": 15,
+                                                                "accepted_genera": 2,
+                                                                "hybrid_species": 0,
+                                                                "example_genera": ["Euphorbia", "Mercurialis"],
+                                                                "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30375178-2",
+                                                                "changed": false,
+                                                                "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                                "children": []
+                                                              }
+                                                            ],
+                                                            "evidence": "Order topology from APG V Figure 1; child family fan shows membership, not a resolved family phylogeny."
+                                                          }
+                                                        ],
+                                                        "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+                                                      },
+                                                      {
+                                                        "name": "",
+                                                        "kind": "clade",
+                                                        "children": [
+                                                          {
+                                                            "name": "Oxalidales",
+                                                            "kind": "order",
+                                                            "children": [
+                                                              {
+                                                                "name": "Oxalidaceae",
+                                                                "kind": "family",
+                                                                "source_families": "Oxalidaceae",
+                                                                "order": "Oxalidales",
+                                                                "apgv_number": 227,
+                                                                "accepted_species": 4,
+                                                                "accepted_genera": 1,
+                                                                "hybrid_species": 0,
+                                                                "example_genera": "Oxalis",
+                                                                "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126611-1",
+                                                                "changed": false,
+                                                                "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                                "children": []
+                                                              }
+                                                            ],
+                                                            "evidence": "Order topology from APG V Figure 1; child family fan shows membership, not a resolved family phylogeny."
+                                                          },
+                                                          {
+                                                            "name": "",
+                                                            "kind": "clade",
+                                                            "children": [
+                                                              {
+                                                                "name": "Sapindales",
+                                                                "kind": "order",
+                                                                "children": [
+                                                                  {
+                                                                    "name": "Sapindaceae",
+                                                                    "kind": "family",
+                                                                    "source_families": "Sapindaceae",
+                                                                    "order": "Sapindales",
+                                                                    "apgv_number": 234,
+                                                                    "accepted_species": 13,
+                                                                    "accepted_genera": 2,
+                                                                    "hybrid_species": 0,
+                                                                    "example_genera": ["Acer", "Aesculus"],
+                                                                    "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000506-2",
+                                                                    "changed": false,
+                                                                    "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                                    "children": []
+                                                                  },
+                                                                  {
+                                                                    "name": "Anacardiaceae",
+                                                                    "kind": "family",
+                                                                    "source_families": "Anacardiaceae",
+                                                                    "order": "Sapindales",
+                                                                    "apgv_number": 237,
+                                                                    "accepted_species": 1,
+                                                                    "accepted_genera": 1,
+                                                                    "hybrid_species": 0,
+                                                                    "example_genera": "Rhus",
+                                                                    "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30002342-2",
+                                                                    "changed": false,
+                                                                    "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                                    "children": []
+                                                                  }
+                                                                ],
+                                                                "evidence": "Order topology from APG V Figure 1; child family fan shows membership, not a resolved family phylogeny."
+                                                              },
+                                                              {
+                                                                "name": "",
+                                                                "kind": "clade",
+                                                                "children": [
+                                                                  {
+                                                                    "name": "Brassicales",
+                                                                    "kind": "order",
+                                                                    "children": [
+                                                                      {
+                                                                        "name": "Resedaceae",
+                                                                        "kind": "family",
+                                                                        "source_families": "Resedaceae",
+                                                                        "order": "Brassicales",
+                                                                        "apgv_number": 254,
+                                                                        "accepted_species": 4,
+                                                                        "accepted_genera": 1,
+                                                                        "hybrid_species": 0,
+                                                                        "example_genera": "Reseda",
+                                                                        "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126584-1",
+                                                                        "changed": false,
+                                                                        "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                                        "children": []
+                                                                      },
+                                                                      {
+                                                                        "name": "Brassicaceae",
+                                                                        "kind": "family",
+                                                                        "source_families": "Brassicaceae",
+                                                                        "order": "Brassicales",
+                                                                        "apgv_number": 257,
+                                                                        "accepted_species": 119,
+                                                                        "accepted_genera": 53,
+                                                                        "hybrid_species": 5,
+                                                                        "example_genera": ["Alyssum", "Alliaria", "Arabidopsis", "Arabis", "Armoracia", "Barbarea", "Berteroa", "Brassarda"],
+                                                                        "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000087-2",
+                                                                        "changed": false,
+                                                                        "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                                        "children": []
+                                                                      }
+                                                                    ],
+                                                                    "evidence": "Order topology from APG V Figure 1; child family fan shows membership, not a resolved family phylogeny."
+                                                                  },
+                                                                  {
+                                                                    "name": "Malvales",
+                                                                    "kind": "order",
+                                                                    "children": [
+                                                                      {
+                                                                        "name": "Thymelaeaceae",
+                                                                        "kind": "family",
+                                                                        "source_families": "Thymelaeaceae",
+                                                                        "order": "Malvales",
+                                                                        "apgv_number": 260,
+                                                                        "accepted_species": 1,
+                                                                        "accepted_genera": 1,
+                                                                        "hybrid_species": 0,
+                                                                        "example_genera": "Daphne",
+                                                                        "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:50000375-1",
+                                                                        "changed": false,
+                                                                        "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                                        "children": []
+                                                                      },
+                                                                      {
+                                                                        "name": "Cistaceae",
+                                                                        "kind": "family",
+                                                                        "source_families": "Cistaceae",
+                                                                        "order": "Malvales",
+                                                                        "apgv_number": 264,
+                                                                        "accepted_species": 1,
+                                                                        "accepted_genera": 1,
+                                                                        "hybrid_species": 0,
+                                                                        "example_genera": "Helianthemum",
+                                                                        "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30002304-2",
+                                                                        "changed": false,
+                                                                        "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                                        "children": []
+                                                                      },
+                                                                      {
+                                                                        "name": "Malvaceae",
+                                                                        "kind": "family",
+                                                                        "source_families": "Malvaceae",
+                                                                        "order": "Malvales",
+                                                                        "apgv_number": 267,
+                                                                        "accepted_species": 17,
+                                                                        "accepted_genera": 6,
+                                                                        "hybrid_species": 2,
+                                                                        "example_genera": ["Abutilon", "Alcea", "Althaea", "Hibiscus", "Malva", "Tilia"],
+                                                                        "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000208-2",
+                                                                        "changed": false,
+                                                                        "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                                        "children": []
+                                                                      }
+                                                                    ],
+                                                                    "evidence": "Order topology from APG V Figure 1; child family fan shows membership, not a resolved family phylogeny."
+                                                                  }
+                                                                ],
+                                                                "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+                                                              }
+                                                            ],
+                                                            "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+                                                          }
+                                                        ],
+                                                        "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+                                                      }
+                                                    ],
+                                                    "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+                                                  }
+                                                ],
+                                                "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+                                              }
+                                            ],
+                                            "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+                                          }
+                                        ],
+                                        "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+                                      }
+                                    ],
+                                    "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+                                  }
+                                ],
+                                "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+                              }
+                            ],
+                            "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+                          },
+                          {
+                            "name": "Santalales",
+                            "kind": "order",
+                            "children": [
+                              {
+                                "name": "Santalaceae",
+                                "kind": "family",
+                                "source_families": "Santalaceae",
+                                "order": "Santalales",
+                                "apgv_number": 273,
+                                "accepted_species": 4,
+                                "accepted_genera": 2,
+                                "hybrid_species": 0,
+                                "example_genera": ["Thesium", "Viscum"],
+                                "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30016540-2",
+                                "changed": false,
+                                "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                "children": []
+                              }
+                            ],
+                            "evidence": "Order topology from APG V Figure 1; child family fan shows membership, not a resolved family phylogeny."
+                          },
+                          {
+                            "name": "Caryophyllales",
+                            "kind": "order",
+                            "children": [
+                              {
+                                "name": "Droseraceae",
+                                "kind": "family",
+                                "source_families": "Droseraceae",
+                                "order": "Caryophyllales",
+                                "apgv_number": 277,
+                                "accepted_species": 5,
+                                "accepted_genera": 2,
+                                "hybrid_species": 1,
+                                "example_genera": ["Aldrovanda", "Drosera"],
+                                "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126644-1",
+                                "changed": false,
+                                "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                "children": []
+                              },
+                              {
+                                "name": "Plumbaginaceae",
+                                "kind": "family",
+                                "source_families": "Plumbaginaceae",
+                                "order": "Caryophyllales",
+                                "apgv_number": 283,
+                                "accepted_species": 1,
+                                "accepted_genera": 1,
+                                "hybrid_species": 0,
+                                "example_genera": "Armeria",
+                                "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000293-2",
+                                "changed": false,
+                                "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                "children": []
+                              },
+                              {
+                                "name": "Polygonaceae",
+                                "kind": "family",
+                                "source_families": "Polygonaceae",
+                                "order": "Caryophyllales",
+                                "apgv_number": 284,
+                                "accepted_species": 57,
+                                "accepted_genera": 8,
+                                "hybrid_species": 12,
+                                "example_genera": ["Bistorta", "Fagopyrum", "Fallopia", "Koenigia", "Persicaria", "Polygonum", "Reynoutria", "Rumex"],
+                                "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000532-2",
+                                "changed": false,
+                                "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                "children": []
+                              },
+                              {
+                                "name": "Amaranthaceae",
+                                "kind": "family",
+                                "source_families": "Amaranthaceae",
+                                "order": "Caryophyllales",
+                                "apgv_number": 292,
+                                "accepted_species": 65,
+                                "accepted_genera": 17,
+                                "hybrid_species": 2,
+                                "example_genera": ["Amaranthus", "Atriplex", "Axyris", "Bassia", "Beta", "Blitum", "Chenopodiastrum", "Chenopodium"],
+                                "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000566-2",
+                                "changed": false,
+                                "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                "children": []
+                              },
+                              {
+                                "name": "Caryophyllaceae",
+                                "kind": "family",
+                                "source_families": "Caryophyllaceae",
+                                "order": "Caryophyllales",
+                                "apgv_number": 293,
+                                "accepted_species": 83,
+                                "accepted_genera": 23,
+                                "hybrid_species": 1,
+                                "example_genera": ["Agrostemma", "Arenaria", "Atocion", "Cerastium", "Dianthus", "Dichodon", "Eremogone", "Gypsophila"],
+                                "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000815-2",
+                                "changed": false,
+                                "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                "children": []
+                              },
+                              {
+                                "name": "Nyctaginaceae",
+                                "kind": "family",
+                                "source_families": "Nyctaginaceae",
+                                "order": "Caryophyllales",
+                                "apgv_number": 303,
+                                "accepted_species": 1,
+                                "accepted_genera": 1,
+                                "hybrid_species": 0,
+                                "example_genera": "Mirabilis",
+                                "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000256-2",
+                                "changed": false,
+                                "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                "children": []
+                              },
+                              {
+                                "name": "Montiaceae",
+                                "kind": "family",
+                                "source_families": "Montiaceae",
+                                "order": "Caryophyllales",
+                                "apgv_number": 306,
+                                "accepted_species": 2,
+                                "accepted_genera": 2,
+                                "hybrid_species": 0,
+                                "example_genera": ["Claytonia", "Montia"],
+                                "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:60455379-2",
+                                "changed": false,
+                                "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                "children": []
+                              },
+                              {
+                                "name": "Portulacaceae",
+                                "kind": "family",
+                                "source_families": "Portulacaceae",
+                                "order": "Caryophyllales",
+                                "apgv_number": 311,
+                                "accepted_species": 1,
+                                "accepted_genera": 1,
+                                "hybrid_species": 0,
+                                "example_genera": "Portulaca",
+                                "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000177-2",
+                                "changed": false,
+                                "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                "children": []
+                              }
+                            ],
+                            "evidence": "Order topology from APG V Figure 1; child family fan shows membership, not a resolved family phylogeny."
+                          },
+                          {
+                            "name": "Superasterids",
+                            "kind": "clade",
+                            "children": [
+                              {
+                                "name": "Asterids",
+                                "kind": "clade",
+                                "children": [
+                                  {
+                                    "name": "",
+                                    "kind": "clade",
+                                    "children": [
+                                      {
+                                        "name": "Cornales",
+                                        "kind": "order",
+                                        "children": [
+                                          {
+                                            "name": "Cornaceae",
+                                            "kind": "family",
+                                            "source_families": "Cornaceae",
+                                            "order": "Cornales",
+                                            "apgv_number": 319,
+                                            "accepted_species": 5,
+                                            "accepted_genera": 1,
+                                            "hybrid_species": 0,
+                                            "example_genera": "Cornus",
+                                            "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30002899-2",
+                                            "changed": false,
+                                            "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "Hydrangeaceae",
+                                            "kind": "family",
+                                            "source_families": "Hydrangeaceae",
+                                            "order": "Cornales",
+                                            "apgv_number": 320,
+                                            "accepted_species": 2,
+                                            "accepted_genera": 1,
+                                            "hybrid_species": 0,
+                                            "example_genera": "Philadelphus",
+                                            "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126637-1",
+                                            "changed": false,
+                                            "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                            "children": []
+                                          }
+                                        ],
+                                        "evidence": "Order topology from APG V Figure 1; child family fan shows membership, not a resolved family phylogeny."
+                                      },
+                                      {
+                                        "name": "Ericales",
+                                        "kind": "order",
+                                        "children": [
+                                          {
+                                            "name": "Balsaminaceae",
+                                            "kind": "family",
+                                            "source_families": "Balsaminaceae",
+                                            "order": "Ericales",
+                                            "apgv_number": 325,
+                                            "accepted_species": 3,
+                                            "accepted_genera": 1,
+                                            "hybrid_species": 0,
+                                            "example_genera": "Impatiens",
+                                            "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126612-1",
+                                            "changed": false,
+                                            "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "Polemoniaceae",
+                                            "kind": "family",
+                                            "source_families": "Polemoniaceae",
+                                            "order": "Ericales",
+                                            "apgv_number": 328,
+                                            "accepted_species": 3,
+                                            "accepted_genera": 3,
+                                            "hybrid_species": 0,
+                                            "example_genera": ["Gilia", "Phlox", "Polemonium"],
+                                            "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000318-2",
+                                            "changed": false,
+                                            "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "Primulaceae",
+                                            "kind": "family",
+                                            "source_families": "Primulaceae",
+                                            "order": "Ericales",
+                                            "apgv_number": 330,
+                                            "accepted_species": 17,
+                                            "accepted_genera": 5,
+                                            "hybrid_species": 0,
+                                            "example_genera": ["Androsace", "Hottonia", "Lysimachia", "Primula", "Samolus"],
+                                            "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126675-1",
+                                            "changed": false,
+                                            "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "Ericaceae",
+                                            "kind": "family",
+                                            "source_families": "Ericaceae",
+                                            "order": "Ericales",
+                                            "apgv_number": 342,
+                                            "accepted_species": 25,
+                                            "accepted_genera": 13,
+                                            "hybrid_species": 1,
+                                            "example_genera": ["Andromeda", "Arctostaphylos", "Calluna", "Chamaedaphne", "Chimaphila", "Empetrum", "Erica", "Moneses"],
+                                            "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000402-2",
+                                            "changed": false,
+                                            "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                            "children": []
+                                          }
+                                        ],
+                                        "evidence": "Order topology from APG V Figure 1; child family fan shows membership, not a resolved family phylogeny."
+                                      }
+                                    ],
+                                    "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+                                  },
+                                  {
+                                    "name": "",
+                                    "kind": "clade",
+                                    "children": [
+                                      {
+                                        "name": "Lamiids",
+                                        "kind": "clade",
+                                        "children": [
+                                          {
+                                            "name": "",
+                                            "kind": "clade",
+                                            "children": [
+                                              {
+                                                "name": "",
+                                                "kind": "clade",
+                                                "children": [
+                                                  {
+                                                    "name": "Solanales",
+                                                    "kind": "order",
+                                                    "children": [
+                                                      {
+                                                        "name": "Convolvulaceae",
+                                                        "kind": "family",
+                                                        "source_families": "Convolvulaceae",
+                                                        "order": "Solanales",
+                                                        "apgv_number": 354,
+                                                        "accepted_species": 8,
+                                                        "accepted_genera": 2,
+                                                        "hybrid_species": 0,
+                                                        "example_genera": ["Convolvulus", "Cuscuta"],
+                                                        "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000547-2",
+                                                        "changed": false,
+                                                        "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                        "children": []
+                                                      },
+                                                      {
+                                                        "name": "Solanaceae",
+                                                        "kind": "family",
+                                                        "source_families": "Solanaceae",
+                                                        "order": "Solanales",
+                                                        "apgv_number": 355,
+                                                        "accepted_species": 17,
+                                                        "accepted_genera": 10,
+                                                        "hybrid_species": 0,
+                                                        "example_genera": ["Alkekengi", "Atropa", "Capsicum", "Datura", "Hyoscyamus", "Lycium", "Nicandra", "Physalis"],
+                                                        "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000631-2",
+                                                        "changed": false,
+                                                        "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                        "children": []
+                                                      }
+                                                    ],
+                                                    "evidence": "Order topology from APG V Figure 1; child family fan shows membership, not a resolved family phylogeny."
+                                                  },
+                                                  {
+                                                    "name": "",
+                                                    "kind": "clade",
+                                                    "children": [
+                                                      {
+                                                        "name": "Boraginales",
+                                                        "kind": "order",
+                                                        "children": [
+                                                          {
+                                                            "name": "Boraginaceae",
+                                                            "kind": "family",
+                                                            "source_families": "Boraginaceae",
+                                                            "order": "Boraginales",
+                                                            "apgv_number": 356,
+                                                            "accepted_species": 33,
+                                                            "accepted_genera": 18,
+                                                            "hybrid_species": 2,
+                                                            "example_genera": ["Amsinckia", "Anchusa", "Asperugo", "Borago", "Buglossoides", "Cerinthe", "Cynoglossum", "Echium"],
+                                                            "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000135-2",
+                                                            "changed": false,
+                                                            "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                            "children": []
+                                                          }
+                                                        ],
+                                                        "evidence": "Order topology from APG V Figure 1; child family fan shows membership, not a resolved family phylogeny."
+                                                      },
+                                                      {
+                                                        "name": "Gentianales",
+                                                        "kind": "order",
+                                                        "children": [
+                                                          {
+                                                            "name": "Gentianaceae",
+                                                            "kind": "family",
+                                                            "source_families": "Gentianaceae",
+                                                            "order": "Gentianales",
+                                                            "apgv_number": 358,
+                                                            "accepted_species": 9,
+                                                            "accepted_genera": 4,
+                                                            "hybrid_species": 0,
+                                                            "example_genera": ["Centaurium", "Gentiana", "Gentianella", "Swertia"],
+                                                            "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000253-2",
+                                                            "changed": false,
+                                                            "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                            "children": []
+                                                          },
+                                                          {
+                                                            "name": "Apocynaceae",
+                                                            "kind": "family",
+                                                            "source_families": "Apocynaceae",
+                                                            "order": "Gentianales",
+                                                            "apgv_number": 360,
+                                                            "accepted_species": 5,
+                                                            "accepted_genera": 3,
+                                                            "hybrid_species": 0,
+                                                            "example_genera": ["Asclepias", "Vinca", "Vincetoxicum"],
+                                                            "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000008-2",
+                                                            "changed": false,
+                                                            "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                            "children": []
+                                                          },
+                                                          {
+                                                            "name": "Rubiaceae",
+                                                            "kind": "family",
+                                                            "source_families": "Rubiaceae",
+                                                            "order": "Gentianales",
+                                                            "apgv_number": 361,
+                                                            "accepted_species": 21,
+                                                            "accepted_genera": 5,
+                                                            "hybrid_species": 1,
+                                                            "example_genera": ["Asperula", "Cruciata", "Galium", "Sherardia", "Trichogalium"],
+                                                            "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30032120-2",
+                                                            "changed": false,
+                                                            "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                            "children": []
+                                                          }
+                                                        ],
+                                                        "evidence": "Order topology from APG V Figure 1; child family fan shows membership, not a resolved family phylogeny."
+                                                      }
+                                                    ],
+                                                    "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+                                                  }
+                                                ],
+                                                "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+                                              },
+                                              {
+                                                "name": "Lamiales",
+                                                "kind": "order",
+                                                "children": [
+                                                  {
+                                                    "name": "Oleaceae",
+                                                    "kind": "family",
+                                                    "source_families": "Oleaceae",
+                                                    "order": "Lamiales",
+                                                    "apgv_number": 364,
+                                                    "accepted_species": 8,
+                                                    "accepted_genera": 4,
+                                                    "hybrid_species": 0,
+                                                    "example_genera": ["Forsythia", "Fraxinus", "Ligustrum", "Syringa"],
+                                                    "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30001336-2",
+                                                    "changed": false,
+                                                    "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "Plantaginaceae",
+                                                    "kind": "family",
+                                                    "source_families": "Plantaginaceae",
+                                                    "order": "Lamiales",
+                                                    "apgv_number": 367,
+                                                    "accepted_species": 49,
+                                                    "accepted_genera": 11,
+                                                    "hybrid_species": 0,
+                                                    "example_genera": ["Callitriche", "Chaenorhinum", "Cymbalaria", "Digitalis", "Gratiola", "Hippuris", "Linaria", "Littorella"],
+                                                    "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30001136-2",
+                                                    "changed": false,
+                                                    "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "Scrophulariaceae",
+                                                    "kind": "family",
+                                                    "source_families": "Scrophulariaceae",
+                                                    "order": "Lamiales",
+                                                    "apgv_number": 370,
+                                                    "accepted_species": 12,
+                                                    "accepted_genera": 3,
+                                                    "hybrid_species": 2,
+                                                    "example_genera": ["Limosella", "Scrophularia", "Verbascum"],
+                                                    "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30466893-2",
+                                                    "changed": false,
+                                                    "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "Lentibulariaceae",
+                                                    "kind": "family",
+                                                    "source_families": "Lentibulariaceae",
+                                                    "order": "Lamiales",
+                                                    "apgv_number": 372,
+                                                    "accepted_species": 7,
+                                                    "accepted_genera": 2,
+                                                    "hybrid_species": 2,
+                                                    "example_genera": ["Pinguicula", "Utricularia"],
+                                                    "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30001689-2",
+                                                    "changed": false,
+                                                    "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "Verbenaceae",
+                                                    "kind": "family",
+                                                    "source_families": "Verbenaceae",
+                                                    "order": "Lamiales",
+                                                    "apgv_number": 377,
+                                                    "accepted_species": 1,
+                                                    "accepted_genera": 1,
+                                                    "hybrid_species": 0,
+                                                    "example_genera": "Verbena",
+                                                    "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000070-2",
+                                                    "changed": false,
+                                                    "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "Orobanchaceae",
+                                                    "kind": "family",
+                                                    "source_families": ["Orobanchaceae", "Phrymaceae"],
+                                                    "order": "Lamiales",
+                                                    "apgv_number": 380,
+                                                    "accepted_species": 36,
+                                                    "accepted_genera": 8,
+                                                    "hybrid_species": 4,
+                                                    "example_genera": ["Erythranthe", "Euphrasia", "Lathraea", "Melampyrum", "Odontites", "Orobanche", "Pedicularis", "Rhinanthus"],
+                                                    "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30003446-2",
+                                                    "changed": true,
+                                                    "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "Lamiaceae",
+                                                    "kind": "family",
+                                                    "source_families": "Lamiaceae",
+                                                    "order": "Lamiales",
+                                                    "apgv_number": 381,
+                                                    "accepted_species": 75,
+                                                    "accepted_genera": 26,
+                                                    "hybrid_species": 10,
+                                                    "example_genera": ["Ajuga", "Ballota", "Betonica", "Chaiturus", "Clinopodium", "Dracocephalum", "Elsholtzia", "Galeopsis"],
+                                                    "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000097-2",
+                                                    "changed": false,
+                                                    "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                    "children": []
+                                                  }
+                                                ],
+                                                "evidence": "Order topology from APG V Figure 1; child family fan shows membership, not a resolved family phylogeny."
+                                              }
+                                            ],
+                                            "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+                                          }
+                                        ],
+                                        "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+                                      },
+                                      {
+                                        "name": "Campanulids",
+                                        "kind": "clade",
+                                        "children": [
+                                          {
+                                            "name": "",
+                                            "kind": "clade",
+                                            "children": [
+                                              {
+                                                "name": "Asterales",
+                                                "kind": "order",
+                                                "children": [
+                                                  {
+                                                    "name": "Campanulaceae",
+                                                    "kind": "family",
+                                                    "source_families": "Campanulaceae",
+                                                    "order": "Asterales",
+                                                    "apgv_number": 387,
+                                                    "accepted_species": 17,
+                                                    "accepted_genera": 5,
+                                                    "hybrid_species": 0,
+                                                    "example_genera": ["Adenophora", "Campanula", "Jasione", "Lobelia", "Phyteuma"],
+                                                    "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000171-2",
+                                                    "changed": false,
+                                                    "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "Menyanthaceae",
+                                                    "kind": "family",
+                                                    "source_families": "Menyanthaceae",
+                                                    "order": "Asterales",
+                                                    "apgv_number": 392,
+                                                    "accepted_species": 2,
+                                                    "accepted_genera": 2,
+                                                    "hybrid_species": 0,
+                                                    "example_genera": ["Menyanthes", "Nymphoides"],
+                                                    "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126679-1",
+                                                    "changed": false,
+                                                    "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "Asteraceae",
+                                                    "kind": "family",
+                                                    "source_families": "Asteraceae",
+                                                    "order": "Asterales",
+                                                    "apgv_number": 395,
+                                                    "accepted_species": 540,
+                                                    "accepted_genera": 93,
+                                                    "hybrid_species": 43,
+                                                    "example_genera": ["Achillea", "Ambrosia", "Anaphalis", "Antennaria", "Anthemis", "Aposeris", "Arctium", "Arnica"],
+                                                    "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:319342-2",
+                                                    "changed": false,
+                                                    "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                    "children": []
+                                                  }
+                                                ],
+                                                "evidence": "Order topology from APG V Figure 1; child family fan shows membership, not a resolved family phylogeny."
+                                              },
+                                              {
+                                                "name": "",
+                                                "kind": "clade",
+                                                "children": [
+                                                  {
+                                                    "name": "Dipsacales",
+                                                    "kind": "order",
+                                                    "children": [
+                                                      {
+                                                        "name": "Viburnaceae",
+                                                        "kind": "family",
+                                                        "source_families": "Viburnaceae",
+                                                        "order": "Dipsacales",
+                                                        "apgv_number": 399,
+                                                        "accepted_species": 6,
+                                                        "accepted_genera": 3,
+                                                        "hybrid_species": 0,
+                                                        "example_genera": ["Adoxa", "Sambucus", "Viburnum"],
+                                                        "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77162522-1",
+                                                        "changed": false,
+                                                        "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                        "children": []
+                                                      },
+                                                      {
+                                                        "name": "Caprifoliaceae",
+                                                        "kind": "family",
+                                                        "source_families": "Caprifoliaceae",
+                                                        "order": "Dipsacales",
+                                                        "apgv_number": 400,
+                                                        "accepted_species": 22,
+                                                        "accepted_genera": 9,
+                                                        "hybrid_species": 0,
+                                                        "example_genera": ["Cephalaria", "Dipsacus", "Knautia", "Linnaea", "Lonicera", "Scabiosa", "Symphoricarpos", "Succisa"],
+                                                        "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000739-2",
+                                                        "changed": false,
+                                                        "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                        "children": []
+                                                      }
+                                                    ],
+                                                    "evidence": "Order topology from APG V Figure 1; child family fan shows membership, not a resolved family phylogeny."
+                                                  },
+                                                  {
+                                                    "name": "Apiales",
+                                                    "kind": "order",
+                                                    "children": [
+                                                      {
+                                                        "name": "Araliaceae",
+                                                        "kind": "family",
+                                                        "source_families": "Araliaceae",
+                                                        "order": "Apiales",
+                                                        "apgv_number": 405,
+                                                        "accepted_species": 4,
+                                                        "accepted_genera": 3,
+                                                        "hybrid_species": 0,
+                                                        "example_genera": ["Aralia", "Hedera", "Hydrocotyle"],
+                                                        "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30001539-2",
+                                                        "changed": false,
+                                                        "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                        "children": []
+                                                      },
+                                                      {
+                                                        "name": "Apiaceae",
+                                                        "kind": "family",
+                                                        "source_families": "Apiaceae",
+                                                        "order": "Apiales",
+                                                        "apgv_number": 407,
+                                                        "accepted_species": 63,
+                                                        "accepted_genera": 46,
+                                                        "hybrid_species": 0,
+                                                        "example_genera": ["Aegopodium", "Aethusa", "Ammi", "Anethum", "Angelica", "Anthriscus", "Apium", "Astrantia"],
+                                                        "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000180-2",
+                                                        "changed": false,
+                                                        "evidence": "Family membership from APG V Appendix B; inter-family branching within the order is not resolved here.",
+                                                        "children": []
+                                                      }
+                                                    ],
+                                                    "evidence": "Order topology from APG V Figure 1; child family fan shows membership, not a resolved family phylogeny."
+                                                  }
+                                                ],
+                                                "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+                                              }
+                                            ],
+                                            "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+                                          }
+                                        ],
+                                        "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+                                      }
+                                    ],
+                                    "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+                                  }
+                                ],
+                                "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+                              }
+                            ],
+                            "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+                          }
+                        ],
+                        "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+                      }
+                    ],
+                    "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+                  }
+                ],
+                "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+              }
+            ],
+            "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+          }
+        ],
+        "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+      }
+    ],
+    "evidence": "Order-level branching transcribed from APG V Figure 1, pruned to Baltic representatives."
+  },
+  "outside": [
+    {
+      "name": "Aspleniaceae",
+      "kind": "outside",
+      "group": "fern and lycophyte",
+      "accepted_species": 15,
+      "accepted_genera": 9,
+      "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126788-1",
+      "evidence": "Non-angiosperm family: no placement is asserted by APG V."
+    },
+    {
+      "name": "Cupressaceae",
+      "kind": "outside",
+      "group": "gymnosperm",
+      "accepted_species": 3,
+      "accepted_genera": 2,
+      "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126767-1",
+      "evidence": "Non-angiosperm family: no placement is asserted by APG V."
+    },
+    {
+      "name": "Dennstaedtiaceae",
+      "kind": "outside",
+      "group": "fern and lycophyte",
+      "accepted_species": 2,
+      "accepted_genera": 1,
+      "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:17434830-1",
+      "evidence": "Non-angiosperm family: no placement is asserted by APG V."
+    },
+    {
+      "name": "Equisetaceae",
+      "kind": "outside",
+      "group": "fern and lycophyte",
+      "accepted_species": 14,
+      "accepted_genera": 1,
+      "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126772-1",
+      "evidence": "Non-angiosperm family: no placement is asserted by APG V."
+    },
+    {
+      "name": "Isoetaceae",
+      "kind": "outside",
+      "group": "fern and lycophyte",
+      "accepted_species": 2,
+      "accepted_genera": 1,
+      "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126771-1",
+      "evidence": "Non-angiosperm family: no placement is asserted by APG V."
+    },
+    {
+      "name": "Lycopodiaceae",
+      "kind": "outside",
+      "group": "fern and lycophyte",
+      "accepted_species": 9,
+      "accepted_genera": 3,
+      "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000139-2",
+      "evidence": "Non-angiosperm family: no placement is asserted by APG V."
+    },
+    {
+      "name": "Marsileaceae",
+      "kind": "outside",
+      "group": "fern and lycophyte",
+      "accepted_species": 1,
+      "accepted_genera": 1,
+      "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126791-1",
+      "evidence": "Non-angiosperm family: no placement is asserted by APG V."
+    },
+    {
+      "name": "Ophioglossaceae",
+      "kind": "outside",
+      "group": "fern and lycophyte",
+      "accepted_species": 8,
+      "accepted_genera": 2,
+      "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30029205-2",
+      "evidence": "Non-angiosperm family: no placement is asserted by APG V."
+    },
+    {
+      "name": "Pinaceae",
+      "kind": "outside",
+      "group": "gymnosperm",
+      "accepted_species": 28,
+      "accepted_genera": 5,
+      "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000468-2",
+      "evidence": "Non-angiosperm family: no placement is asserted by APG V."
+    },
+    {
+      "name": "Polypodiaceae",
+      "kind": "outside",
+      "group": "fern and lycophyte",
+      "accepted_species": 15,
+      "accepted_genera": 3,
+      "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30000471-2",
+      "evidence": "Non-angiosperm family: no placement is asserted by APG V."
+    },
+    {
+      "name": "Salviniaceae",
+      "kind": "outside",
+      "group": "fern and lycophyte",
+      "accepted_species": 2,
+      "accepted_genera": 2,
+      "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77126792-1",
+      "evidence": "Non-angiosperm family: no placement is asserted by APG V."
+    },
+    {
+      "name": "Selaginellaceae",
+      "kind": "outside",
+      "group": "fern and lycophyte",
+      "accepted_species": 1,
+      "accepted_genera": 1,
+      "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30003749-2",
+      "evidence": "Non-angiosperm family: no placement is asserted by APG V."
+    },
+    {
+      "name": "Taxaceae",
+      "kind": "outside",
+      "group": "gymnosperm",
+      "accepted_species": 2,
+      "accepted_genera": 1,
+      "source_uri": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30026279-2",
+      "evidence": "Non-angiosperm family: no placement is asserted by APG V."
+    }
+  ],
+  "metadata": {
+    "title": "Baltic family phylogeny",
+    "article_doi": "10.1111/jse.70096",
+    "article_source": "APG V (2026), Figure 1 and Appendix B",
+    "source_extraction_id": "wcvp-v16-blt-20261110T113805Z",
+    "source_release_date": "2026-06-04",
+    "source_families": 117,
+    "flowering_source_families": 104,
+    "apgv_family_tips": 103,
+    "outside_apgv_families": 13,
+    "family_relationships": "Within-order fans are unresolved membership attachments.",
+    "branch_lengths": "None: cladogram, not a dated tree or genetic-distance phylogram.",
+    "region": "Baltic States (BLT): Estonia, Latvia, Lithuania and Kaliningrad.",
+    "family_change": "Phrymaceae merged into Orobanchaceae; original WCVP names retained in mapping.",
+    "paper_sha256": "6196bf12a88e94fd4bfff249d0a676988b55de864de61c30ad48be3bab8b6bcf"
+  }
+}
