@@ -1,4 +1,4 @@
-# Baltic family phylogeny
+# Baltic angiosperm family phylogeny
 
 Interactive APG V order backbone for Baltic-region plant families, with zoom,
 panning, expandable orders, and family counts. Open `index.html` to explore.

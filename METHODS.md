@@ -1,4 +1,4 @@
-# Baltic family phylogeny according to APG V
+# Baltic angiosperm family phylogeny according to APG V
 
 Open **`index.html`** in a web browser. It is self-contained and works
 offline. Scroll or pinch to zoom, drag to pan, click internal nodes to expand or
