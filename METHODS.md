@@ -7,6 +7,16 @@ The opening view shows 36 Baltic orders; **Expand families** displays every
 APG V family tip. At low zoom labels are thinned; zoom in to read all of them. Family
 details show the source names and accepted species/genus counts.
 
+Select a family, then open **Accepted Baltic genera** for its linked genus
+list, or **Accepted Baltic species** for species grouped under their genera.
+Both lists have a search field and use the original POWO taxon links. Only one
+list is open at a time, and long lists scroll within the family panel. Species
+lists include accepted species only, including accepted hybrids; subspecies,
+varieties, forms, other infraspecific ranks, and unplaced names are excluded.
+The 735 genera and 2,732 species match the counts in the saved regional snapshot.
+The Orobanchaceae list combines the original Orobanchaceae and Phrymaceae rows.
+Lists also work for the 13 non-flowering families in the separate scope panel.
+
 ## What the tree represents
 
 - **Order topology:** manually transcribed from Figure 1, printed page 847
@@ -90,8 +100,15 @@ Browser checks can be rerun from PowerShell with
 `./scripts/check_phylogeny.ps1` (requires local Google Chrome). They check all
 117 source family choices, zoom buttons, wheel zoom, expansion of all 103 tips,
 collapse of an order's family fan, the Phrymaceae merger, the outside-APG scope
-message, finite SVG coordinates, and responsive page width. A selected-family
-view and the figure layout were also inspected visually.
+message, finite SVG coordinates, and responsive page width. They also verify
+list counts, POWO URLs, genus grouping, search/empty/clear states, one-species
+families, merged families, and bounded list height. Actual viewport widths of
+1440, 900, 500 and 380 CSS pixels are set through Chrome's debugging protocol;
+Windows Chrome's window-size flag alone may clamp to a wider viewport.
+Open-list previews were inspected in light and dark themes at desktop and phone
+widths. Native disclosure controls support keyboard activation. Phone list links
+have 44-pixel touch targets, and search inputs use 16-pixel type to avoid iOS
+focus zoom.
 
 ## Citation
 

@@ -3,6 +3,11 @@
 Interactive APG V order backbone for Baltic-region plant families, with zoom,
 panning, expandable orders, and family counts. Open `index.html` to explore.
 
+Select a family and open **Accepted Baltic genera** or **Accepted Baltic species**
+to browse searchable POWO-linked lists. Species are grouped by genus and include
+only accepted species, including hybrids. Subspecies, varieties and forms are
+excluded. Lists are embedded and work offline; POWO links open in a new tab.
+
 Coverage: 103 flowering-family tips in 36 orders; all 117 WCVP source family
 names are accessible, including 13 non-flowering families outside APG V.
 The Baltic botanical region includes Estonia, Latvia, Lithuania and Kaliningrad.
